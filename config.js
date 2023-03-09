@@ -23,7 +23,7 @@ const config = {
     {
       type: 'checkbox',
       title: 'Minority Serving Institution: ',
-      columnHeader: 'Minority Serving Institution', // Case sensitive - must match spreadsheet entry
+      columnHeader: 'Minority_Serving_Institution', // Case sensitive - must match spreadsheet entry
       listItems: ['HSI', 'AANAPISI/PBI', 'No'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
     },
     {
