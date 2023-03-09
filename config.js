@@ -2,7 +2,7 @@
 
 // eslint-disable-next-line no-unused-vars
 const config = {
-  style: 'mapbox://styles/agubridge/cler6uz1t001201pbzlkoht3w',
+  style: 'mapbox://styles/agubridge/clf18ym13001101qfhakmid4n',
   accessToken:
     'pk.eyJ1IjoiYWd1YnJpZGdlIiwiYSI6ImNsZW9lZmU5cjAxazU0NHBsMGdlNHA5aTYifQ.RuKSa6CucFk9b0RQNkxung',
   CSV: './maphubexm.csv',
