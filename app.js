@@ -368,9 +368,11 @@ removeFiltersButton();
 const geocoder = new MapboxGeocoder({
   accessToken: mapboxgl.accessToken, // Set the access token
   mapboxgl: mapboxgl, // Set the mapbox-gl instance
-  marker: true, // Use the geocoder's default marker style
+  marker: false, // Use the geocoder's default marker style
   zoom: 11,
 });
+
+
 
 function sortByDistance(selectedPoint) {
   const options = { units: 'miles' };
@@ -449,20 +451,22 @@ map.on('load', () => {
         // Add the the layer to the map
         map.addLayer({
           id: 'locationData',
-          type: 'Point',
+          type: 'circle',
           source: {
             type: 'geojson',
             data: geojsonData,
           },
           paint: {
-            'marker-color': '#3bb2d0',
-            'marker-size': 'medium',
-            'marker-symbol': 'college'
+            'circle-radius': 6, // size of circles
+            'circle-color': '#F28C28', // color of circles
+            'circle-stroke-color': 'white',
+            'circle-stroke-width': 1,
+            'circle-opacity': 0.85,
           },
         });
       },
     );
-
+    
     map.on('click', 'locationData', (e) => {
       const features = map.queryRenderedFeatures(e.point, {
         layers: ['locationData'],
