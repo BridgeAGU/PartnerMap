@@ -368,7 +368,7 @@ removeFiltersButton();
 const geocoder = new MapboxGeocoder({
   accessToken: mapboxgl.accessToken, // Set the access token
   mapboxgl: mapboxgl, // Set the mapbox-gl instance
-  marker: false, // Use the geocoder's default marker style
+  marker: true, // Use the geocoder's default marker style
   zoom: 11,
 });
 
@@ -457,7 +457,7 @@ map.on('load', () => {
             data: geojsonData,
           },
           paint: {
-            'circle-radius': 6, // size of circles
+            'circle-radius': 7, // size of circles
             'circle-color': '#F28C28', // color of circles
             'circle-stroke-color': 'white',
             'circle-stroke-width': 1,
