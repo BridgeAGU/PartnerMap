@@ -11,7 +11,7 @@ const config = {
   title: 'AGU Bridge Partner Map',
   description:
     'Replace with information about your application. Ex. You can search by address to sort the list below by distance. You can also filter the list by language support options, which days a location is open, and whether they have devices to use to complete the survey by phone or online.',
-  sideBarInfo: ['Institution', 'GRE Requirement' 'Type', 'Size', 'Setting', 'Minority Serving Institution'],
+  sideBarInfo: ['Institution', 'GRE_Requirement' 'Type', 'Size', 'Setting', 'Minority_Serving_Institution'],
   popupInfo: ['Institution'],
   popupinfo2: ['Type'],
   popupinfo3: ['Size'],
