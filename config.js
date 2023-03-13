@@ -11,22 +11,22 @@ const config = {
   title: 'AGU Bridge Partner Map',
   description:
     'Replace with information about your application. Ex. You can search by address to sort the list below by distance. You can also filter the list by language support options, which days a location is open, and whether they have devices to use to complete the survey by phone or online.',
-  sideBarInfo: ['Institution', 'GRE_Requirement' 'Type', 'Size', 'Setting', 'Minority_Serving_Institution'],
+  sideBarInfo: ['Institution', 'Type', 'Size', 'Setting', 'GRE Requirement', 'Minority Serving Institution'],
   popupInfo: ['Institution'],
   popupinfo2: ['Type'],
   popupinfo3: ['Size'],
   filters: [
     {
       type: 'dropdown',
-      title: 'GRE Requirement: ',
-      columnHeader: 'GRE_Requirement',
-      listItems: ['GRE Required', 'GRE not required'],
-    },
-    {
-      type: 'dropdown',
       title: 'Type: ',
       columnHeader: 'Type',
       listItems: [ 'Public', 'Private'],
+    },
+    {
+      type: 'checkbox',
+      title: 'Minority Serving Institution: ',
+      columnHeader: 'Minority_Serving_Institution', // Case sensitive - must match spreadsheet entry
+      listItems: ['HSI', 'AANAPISI', 'No MSI status', 'PBI', 'HBCU', 'ANNHI'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
     },
     {
       type: 'checkbox',
@@ -41,10 +41,10 @@ const config = {
       listItems: ['Urban', 'Suburban', 'Rural'],
     },
     {
-      type: 'checkbox',
-      title: 'Minority Serving Institution: ',
-      columnHeader: 'Minority_Serving_Institution', // Case sensitive - must match spreadsheet entry
-      listItems: ['HSI', 'AANAPISI', 'No MSI status', 'PBI', 'HBCU', 'ANNHI'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
+      type: 'dropdown',
+      title: 'GRE Requirement: ',
+      columnHeader: 'GRE Requirement',
+      listItems: ['GRE Required', 'GRE not required'],
     },
   ],
 };
