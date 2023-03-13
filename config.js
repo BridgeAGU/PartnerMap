@@ -43,7 +43,7 @@ const config = {
     {
       type: 'dropdown',
       title: 'GRE Requirement: ',
-      columnHeader: 'GRE Requirement',
+      columnHeader: 'GRE_Requirement',
       listItems: ['GRE Required', 'GRE not required'],
     },
   ],
