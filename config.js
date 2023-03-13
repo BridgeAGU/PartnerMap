@@ -37,8 +37,8 @@ const config = {
     {
       type: 'checkbox',
       title: 'GRE Requirement:',
-      columnHeader: 'GRE Requirement',
-      listItems: ['GRE Required', 'GRE not required'],
+      columnHeader: 'GRE_Requirement',
+      listItems: ['GRE required', 'GRE not required'],
     },
     {
       type: 'checkbox',
