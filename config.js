@@ -15,7 +15,6 @@ const config = {
   popupInfo: ['Institution'],
   popupinfo2: ['Type'],
   popupinfo3: ['Size'],
-  popupinfo4: ['Setting'],
   filters: [
     {
       type: 'dropdown',
