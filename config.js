@@ -23,28 +23,28 @@ const config = {
       listItems: [ 'Public', 'Private'],
     },
     {
-      type: 'checkbox',
-      title: 'Minority Serving Institution: ',
-      columnHeader: 'Minority_Serving_Institution', // Case sensitive - must match spreadsheet entry
-      listItems: ['HSI', 'AANAPISI', 'No MSI status', 'PBI', 'HBCU', 'ANNHI'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
-    },
-    {
-      type: 'checkbox',
+      type: 'dropdown',
       title: 'Size: ',
       columnHeader: 'Size',
-      listItems: ['Large', 'Medium'],
-    },
+      listItems: [ 'Large', 'Medium'],
+    }, 
     {
       type: 'checkbox',
-      title: 'Setting: ',
+      title: 'Setting:',
       columnHeader: 'Setting',
       listItems: ['Urban', 'Suburban', 'Rural'],
     },
     {
-      type: 'dropdown',
-      title: 'GRE Requirement: ',
+      type: 'checkbox',
+      title: 'GRE Requirement:',
       columnHeader: 'GRE Requirement',
       listItems: ['GRE Required', 'GRE not required'],
+    },
+    {
+      type: 'checkbox',
+      title: 'Minority Serving Institution: ',
+      columnHeader: 'Minority_Serving_Institution', // Case sensitive - must match spreadsheet entry
+      listItems: ['HSI', 'AANAPISI', 'No MSI status', 'PBI', 'HBCU', 'ANNHI'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
     },
   ],
 };
