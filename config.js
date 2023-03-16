@@ -15,7 +15,6 @@ const config = {
   popupInfo: ['Institution'],
   popupinfo2: ['Department'],
   popupinfolink: ['Link'],
-  popupdescribe: ['<h3><a href="' + currentFeature.properties[config.popupinfolink] + '">' + currentFeature.properties[config.popupInfo] + '</a></h3>']
   filters: [
     {
       type: 'dropdown',
