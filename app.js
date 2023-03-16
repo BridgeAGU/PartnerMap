@@ -18,6 +18,9 @@ const map = new mapboxgl.Map({
   transformRequest: transformRequest,
 });
 
+// Add zoom and rotation controls to the map.
+map.addControl(new mapboxgl.NavigationControl());
+
 function flyToLocation(currentFeature) {
   map.flyTo({
     center: currentFeature,
