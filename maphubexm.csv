@@ -1,4 +1,4 @@
-Institution,Type,Size,Setting,Minority_Serving_Institution,GRE Requirement,Link,Latitude,Longitude
+Institution,Type,Size,Setting,Minority_Serving_Institution,GRE_Requirement,Link,Latitude,Longitude
 University of Texas Austin: Jackson School of Geoscience,Public,Large,Urban,HSI,GRE not required,https://www.jsg.utexas.edu/dgs/,30.28,-97.73
 Tulane University: Department of Earth and Environmental Sciences,Private,Large,Urban,No MSI status,GRE not required,https://sse.tulane.edu/eens,29.94,-90.12
 Cornell University: Department of Earth and Atmospheric Sciences,Private,Medium,Suburban,No MSI status,GRE not required,https://www.eas.cornell.edu/eas,42.45,-76.47
