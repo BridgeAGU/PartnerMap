@@ -458,10 +458,10 @@ map.on('load', () => {
           },
           paint: {
             'circle-radius': 5, // size of circles
-            'circle-color': '#FFBF00', // color of circles
+            'circle-color': '#D2042D', // color of circles
             'circle-stroke-color': 'white',
             'circle-stroke-width': 1,
-            'circle-opacity': 0.7,
+            'circle-opacity': 0.8,
           },
         });
       },
