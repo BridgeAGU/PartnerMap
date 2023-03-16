@@ -31,7 +31,7 @@ function createPopup(currentFeature) {
   if (popups[0]) popups[0].remove();
   new mapboxgl.Popup({ closeOnClick: true })
     .setLngLat(currentFeature.geometry.coordinates)
-    .setHTML('<h3>'currentFeature.properties[config.popupInfo]'</h3>' + '<a href="' + currentFeature.properties[config.popupinfolink] + '">' + currentFeature.properties[config.popup2] + '</a>')
+    .setHTML('<h3>' + currentFeature.properties[config.popupInfo] + '</h3>' + '<a href="' + currentFeature.properties[config.popupinfolink] + '">Department Page</a>')
     .addTo(map);
 }
 
@@ -515,4 +515,3 @@ function transformRequest(url) {
     url: isMapboxRequest ? url.replace('?', '?pluginName=finder&') : url,
   };
 }
-
