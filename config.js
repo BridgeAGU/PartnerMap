@@ -5,7 +5,7 @@ const config = {
   style: 'mapbox://styles/agubridge/cler6uz1t001201pbzlkoht3w',
   accessToken:
     'pk.eyJ1IjoiYWd1YnJpZGdlIiwiYSI6ImNsZW9lZmU5cjAxazU0NHBsMGdlNHA5aTYifQ.RuKSa6CucFk9b0RQNkxung',
-  CSV: './maphubexm.csv',
+  CSV: 'mapdatasheet.csv',
   center: [-97.077789, 41.803954],
   zoom: 3.51,
   title: 'AGU Bridge Partner Map',
