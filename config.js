@@ -10,7 +10,7 @@ const config = {
   zoom: 3.51,
   title: 'AGU Bridge Partner Map',
   description:
-    'Replace with information about your application. Ex. You can search by address to sort the list below by distance. You can also filter the list by language support options, which days a location is open, and whether they have devices to use to complete the survey by phone or online.',
+    'This map displays all current AGU Bridge Program partner departments. Users can filter both the map and list of departments by a variety of characteristics explained in the map legend (below/above) the map. When filtering by more than one characteristic, users will see departments that match ANY of the chosen characteristics.',
   sideBarInfo: ['Institution', 'Type', 'Size', 'Setting', 'GRE_Requirement', 'Minority_Serving_Institution'],
   popupInfo: ['Institution'],
   popupinfolink: ['Link'],
