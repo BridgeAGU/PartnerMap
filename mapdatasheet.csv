@@ -1,4 +1,4 @@
-Institution,Type,Size,Setting,Minority_Serving_Institution,GRE_Requirements,Address,Link,Latitude,Longitude
+Institution,Type,Size,Setting,Minority_Serving_Institution,GRE_Requirement,Address,Link,Latitude,Longitude
 "Brown University: Department of Earth, Environmental and Planetary Sciences",Private,medium,urban,No,GRE not required,"One Prospect Street, Providence, RI 2912",https://deeps.brown.edu/,41.83,-71.4
 "California State University, Chico: Department of Earth and Environmental Sciences",Public,large,rural,HSI,GRE not required,"31 Ivy Street, Chico, CA 95928",https://www.csuchico.edu/erth/,39.73,-121.85
 "California State University, Fresno: Department of Earth and Environmental Sciences",Public,large,urban,HSI,GRE required," 2576 E. San Ramon Ave, Fresno, CA 93740",https://csm.fresnostate.edu/ees/,36.81,-119.75
