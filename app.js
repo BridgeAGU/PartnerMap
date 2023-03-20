@@ -459,7 +459,7 @@ map.on('load', () => {
             type: 'geojson',
             data: geojsonData,
           },
-          layout{
+          layout: {
             icon: 'college'
           },
         });
