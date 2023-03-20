@@ -4,7 +4,7 @@ Institution,Type,Size,Setting,Minority_Serving_Institution,GRE_Requirements,Addr
 "California State University, Fresno: Department of Earth and Environmental Sciences",Public,large,urban,HSI,GRE required," 2576 E. San Ramon Ave, Fresno, CA 93740",https://csm.fresnostate.edu/ees/,36.81,-119.75
 Central Washington University: Department of Geological Sciences,Public,medium,rural,No,GRE not required,"400 East University Way, Ellensburg, WA 98926",https://www.geology.cwu.edu/,47.01,-120.54
 Colorado State University: Department of Atmospheric Science,Public,large,suburban,No,GRE not required,"3915 Laporte Ave., Fort Collins, CO 80521",https://www.atmos.colostate.edu/,40.57,-105.09
-Cornell University: Department of Earth and Atmospheric Sciences,Private,large,rural,No,GRE not required,"112 Hollister Drive, Ithaca, NY 14853 ",https://www.eas.cornell.edu/eas,42.45,-76.47
+Cornell University: Department of Earth and Atmospheric Sciences,Private,large,rural,No,GRE not required,"112 Hollister Drive, Ithaca, NY 14853Â ",https://www.eas.cornell.edu/eas,42.45,-76.47
 Dartmouth College: Department of Earth Sciences,Private,medium,rural,No,GRE not required,"19 Fayerweather Hill Road, Hanover, NH 03755",https://earthsciences.dartmouth.edu/,43.7,-72.29
 Florida International University: Department of Earth and Environment,Public,large,urban,HSI,GRE not required,"11200 S. W. 8th Street, Miami, FL 33199",https://case.fiu.edu/earth-environment/,25.76,-80.38
 George Mason University: Department of Atmospheric Oceanic and Earth Sciences,Public,large,suburban,No,GRE not required,"4400 University Dr, 3451 Exploratory Hall and 109 Research Hall, Fairfax, VA 22030 ",https://science.gmu.edu/academics/departments-units/atmospheric-oceanic-earth-sciences,38.83,-77.31
@@ -28,7 +28,7 @@ University of Chicago: Department of the Geophysical Sciences,Private,large,urba
 "University of Colorado, Boulder: Department of Geography",Public,large,suburban,No,GRE not required,"1475 Central Campus Mall, GUGG, Boulder, CO 80309",https://www.colorado.edu/geography/,40.01,-105.27
 "University of Colorado, Boulder: Department of Geological Sciences",Public,large,suburban,No,GRE not required,"1475 Central Campus Mall, GUGG, Boulder, CO 80309",https://www.colorado.edu/geologicalsciences/,40.01,-105.27
 University of Connecticut: Marine Sciences,Public,large,rural,No,GRE not required,"1080 Shennecossett Road, Groton, CT 06340",https://marinesciences.uconn.edu/#,41.81,-72.25
-University of Houston: Earth and Atmospheric Sciences,Public,large,urban,AANAPISI/HSI,GRE not required,"3507 Cullen Blvd., Houston, TX 77204",https://www.uh.edu/nsm/earth-atmospheric/,29.72,95.34
+University of Houston: Earth and Atmospheric Sciences,Public,large,urban,AANAPISI/HSI,GRE not required,"3507 Cullen Blvd., Houston, TX 77204",https://www.uh.edu/nsm/earth-atmospheric/,29.72,-95.34
 "University of Illinois at Urbana Champaign: School of Earth, Society and the Environment",Public,large,urban,No,GRE not required,"1301 W. Green St., Chanmpaign, IL 61801",https://earth.illinois.edu/,40.1,-88.23
 University of Illinois Chicago: Department of Earth & Environmental Sciences,Public,large,urban,AANAPISI/HSI,GRE not required,"845 W. Taylor St., 2440 SES Chicago, IL 60607",https://eaes.uic.edu/,41.87,-87.65
 University of Kentucky: Department of Earth and Environmental Sciences,Public,large,urban,No,GRE not required,"South Limestone, 101 Slone Building, Lexington, KY 40506",https://ees.as.uky.edu/,38.03,-84.5
