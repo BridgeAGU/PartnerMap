@@ -454,17 +454,13 @@ map.on('load', () => {
         // Add the the layer to the map
         map.addLayer({
           id: 'locationData',
-          type: 'circle',
+          type: 'symbol',
           source: {
             type: 'geojson',
             data: geojsonData,
           },
-          paint: {
-            'circle-radius': 5, // size of circles
-            'circle-color': '#D2042D', // color of circles
-            'circle-stroke-color': 'white',
-            'circle-stroke-width': 1,
-            'circle-opacity': 0.8,
+          layout{
+            icon: 'college'
           },
         });
       },
