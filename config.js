@@ -11,7 +11,7 @@ const config = {
   title: 'AGU Bridge Partner Map',
   description:
     'This map displays all current AGU Bridge Program partner departments. Users can filter both the map and list of departments by a variety of characteristics explained in the map legend (below/above) the map. When filtering by more than one characteristic, users will see departments that match ANY of the chosen characteristics.',
-  sideBarInfo: ['Institution', 'Type', 'Size', 'Setting', 'GRE_Requirement', 'Minority_Serving_Institution'],
+  sideBarInfo: ['Institution', 'Type', 'Size', 'Setting', 'GRE_Requirement', 'GRE_Notes', 'Minority_Serving_Institution'],
   popupInfo: ['Institution'],
   popupinfolink: ['Link'],
   filters: [
