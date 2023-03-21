@@ -1,65 +1,65 @@
-Institution,Type,Size,Setting,Minority_Serving_Institution,GRE_Requirement,Address,Link,Latitude,Longitude
-"Brown University: Department of Earth, Environmental and Planetary Sciences",Private,Medium,Urban,No MSI status,GRE not required,"One Prospect Street, Providence, RI 2912",https://deeps.brown.edu/,41.83,-71.4
-"California State University, Chico: Department of Earth and Environmental Sciences",Public,Large,Rural,HSI,GRE not required,"31 Ivy Street, Chico, CA 95928",https://www.csuchico.edu/erth/,39.73,-121.85
-"California State University, Fresno: Department of Earth and Environmental Sciences",Public,Large,Urban,HSI,GRE required," 2576 E. San Ramon Ave, Fresno, CA 93740",https://csm.fresnostate.edu/ees/,36.81,-119.75
-Central Washington University: Department of Geological Sciences,Public,Medium,Rural,No MSI status,GRE not required,"400 East University Way, Ellensburg, WA 98926",https://www.geology.cwu.edu/,47.01,-120.54
-Colorado State University: Department of Atmospheric Science,Public,Large,Suburban,No MSI status,GRE not required,"3915 Laporte Ave., Fort Collins, CO 80521",https://www.atmos.colostate.edu/,40.57,-105.09
-Cornell University: Department of Earth and Atmospheric Sciences,Private,Large,Rural,No MSI status,GRE not required,"112 Hollister Drive, Ithaca, NY 14853 ",https://www.eas.cornell.edu/eas,42.45,-76.47
-Dartmouth College: Department of Earth Sciences,Private,Medium,Rural,No MSI status,GRE not required,"19 Fayerweather Hill Road, Hanover, NH 03755",https://earthsciences.dartmouth.edu/,43.7,-72.29
-Florida International University: Department of Earth and Environment,Public,Large,Urban,HSI,GRE not required,"11200 S. W. 8th Street, Miami, FL 33199",https://case.fiu.edu/earth-environment/,25.76,-80.38
-George Mason University: Department of Atmospheric Oceanic and Earth Sciences,Public,Large,Suburban,No MSI status,GRE not required,"4400 University Dr, 3451 Exploratory Hall and 109 Research Hall, Fairfax, VA 22030 ",https://science.gmu.edu/academics/departments-units/atmospheric-oceanic-earth-sciences,38.83,-77.31
-Georgia Institute of Technology: School of Earth and Atmospheric Sciences,Public,Large,Urban,No MSI status,GRE not required,"311 Ferst Drive, Atlanta, GA 30332",https://eas.gatech.edu/,33.78,-84.4
-Georgia State University: Department of Geosciences,Public,Large,Urban,"AANAPISI, PBI",GRE not required,"38 Peachtree Center Ave. SE, Suite 730, Atlanta, GA 30303",https://geosciences.gsu.edu/,33.75,-84.39
-Hampton University: Department of Atmospheric and Planetary Sciences,Private,Medium,Urban,HBCU,GRE not required,"23 E. Tyler Street, Hampton, VA 23668",https://home.hamptonu.edu/science/atmospheric-planetary-sciences/,37.02,-76.33
-Johns Hopkins University: Department of Earth and Planetary Sciences,Private,Large,Urban,No MSI status,GRE not required,"3400 N. Charles Street, 301 Olin Hall, Baltimore, MD 21218",https://eps.jhu.edu/,39.33,-76.62
-Lehigh University: Department of Earth and Environmental Sciences,Private,Medium,Suburban,No MSI status,GRE not required,"1 West Packer Avenue, Bethlehem, PA 18015",https://ees.cas.lehigh.edu/,40.6,-75.38
-Michigan Technological University: Department of Geological and Mining Engineering and Sciences,Public,Medium,Rural,No MSI status,GRE not required,"1400 Townsend Drive, Houghton, MI 49931",https://www.mtu.edu/geo/graduate/geo-eng/,47.12,-88.55
-Northern Arizona University: Center for Ecosystem Science and Society,Public,Large,Suburban,HSI,GRE not required,"1900 S Knoles Dr, Flagstaff, AZ 86011",https://ecoss.nau.edu/,35.18,-111.65
-Ohio State University: School of Earth Sciences,Public,Large,Urban,No MSI status,GRE not required,"125 S. Oval Mall, Columbus, OH 43210",https://earthsciences.osu.edu/,40.01,-83.03
-Tulane University: Department of Earth and Environmental Sciences,Private,Large,Urban,No MSI status,GRE not required,"6823 St. Charles Avenue, 201 Lindy Claiborne Boggs Center, New Orleans, LA 70118",https://sse.tulane.edu/eens,29.94,-90.12
-University at Albany SUNY: Department of Atmospheric and Environmental Sciences,Public,Large,Suburban,No MSI status,GRE not required,"1400 Washington Avenue, ETEC 496, Albany, NY 12222",https://www.albany.edu/daes,42.69,-73.82
-University of Alabama: Department of Geological Sciences,Public,Large,Suburban,No MSI status,GRE not required,"201 7th Ave., Tuscaloosa, AL 35487",https://geo.ua.edu/,33.21,-87.54
-University of Alaska Fairbanks: Department of Geosciences,Public,Medium,Suburban,ANNHI,GRE not required,"1930 Yukon Drive, 308 Reichardt Building, Fairbanks, AK 99775",https://www.uaf.edu/geosciences/,64.86,-147.83
-"University of California, Irvine: 	Department of Earth System Science",Public,Large,Suburban,"AANAPISI, HSI",GRE not required,"501 Aldrich Hall, Croul Hall, Irvine, CA 92687",https://www.ess.uci.edu/,33.64,-117.84
-"University of California, San Diego: Scripps Institution of Oceanography",Public,Large,Suburban,No MSI status,GRE not required,"9500 Gilman Dr, La Jolla, CA 92093",https://scripps.ucsd.edu/,32.88,-117.23
-"University of California, Santa Barbara: Department of Earth Science",Public,Large,Suburban,HSI,GRE not required,"1006 Webb Hall, University of California, Santa Barbara, CA 93106",https://www.geol.ucsb.edu/education/graduate,34.41,-119.85
-"University of California, Santa Cruz: Ocean Sciences Department",Public,Large,Suburban,HSI,GRE not required,"115 McAllister Way, Santa Cruz, CA 95060",https://oceansci.ucsc.edu/,36.99,-122.06
-University of Chicago: Department of the Geophysical Sciences,Private,Large,Urban,No MSI status,GRE not required,"5734 S. Ellis Avenue, Chicago, IL 60637",https://geosci.uchicago.edu/,41.79,-87.6
-"University of Colorado, Boulder: Department of Geography",Public,Large,Suburban,No MSI status,GRE not required,"1475 Central Campus Mall, GUGG, Boulder, CO 80309",https://www.colorado.edu/geography/,40.01,-105.27
-"University of Colorado, Boulder: Department of Geological Sciences",Public,Large,Suburban,No MSI status,GRE not required,"1475 Central Campus Mall, GUGG, Boulder, CO 80309",https://www.colorado.edu/geologicalsciences/,40.01,-105.27
-University of Connecticut: Marine Sciences,Public,Large,Rural,No MSI status,GRE not required,"1080 Shennecossett Road, Groton, CT 06340",https://marinesciences.uconn.edu/#,41.81,-72.25
-University of Houston: Earth and Atmospheric Sciences,Public,Large,Urban,"AANAPISI, HSI",GRE not required,"3507 Cullen Blvd., Houston, TX 77204",https://www.uh.edu/nsm/earth-atmospheric/,29.72,-95.34
-"University of Illinois at Urbana Champaign: School of Earth, Society and the Environment",Public,Large,Urban,No MSI status,GRE not required,"1301 W. Green St., Chanmpaign, IL 61801",https://earth.illinois.edu/,40.1,-88.23
-University of Illinois Chicago: Department of Earth & Environmental Sciences,Public,Large,Urban,"AANAPISI, HSI",GRE not required,"845 W. Taylor St., 2440 SES Chicago, IL 60607",https://eaes.uic.edu/,41.87,-87.65
-University of Kentucky: Department of Earth and Environmental Sciences,Public,Large,Urban,No MSI status,GRE not required,"South Limestone, 101 Slone Building, Lexington, KY 40506",https://ees.as.uky.edu/,38.03,-84.5
-University of Maryland College Park: Department of Atmospheric and Oceanic Science,Public,Large,Suburban,AANAPISI,GRE not required,"4254 Stadium Drive, College Park, MD 20742",https://aosc.umd.edu/,38.99,-76.94
-University of Massachusetts Amherst: Department of Geosciences,Public,Large,Suburban,No MSI status,GRE not required,"627 North Pleasant St, 233 Morrill Science Center, Amherst, MA 1003",http://www.geo.umass.edu/programs/graduate/geology,42.39,-72.53
-University of Michigan: Department of Earth and Environmental Sciences,Public,Large,Urban,No MSI status,GRE not required,"1100 North University Ave., Ann Arbor, MI 48109",https://lsa.umich.edu/earth,42.24,-83.74
-University of Michigan: Department of Climate and Space Sciences and Engineering,Public,Large,Urban,No MSI status,GRE not required,"2455 Hayward St., Ann Arbor, MI 48109",https://clasp.engin.umich.edu/,42.24,-83.74
-"University of Minnesota, Duluth: Department of Earth and Environmental Sciences",Public,Medium,Suburban,No MSI status,GRE not required,"1114 Kirby Drive, Heller Hall 229, Duluth, MN 55812",https://scse.d.umn.edu/departments-and-programs/earth-environmental-sciences,46.82,-92.08
-"University of Minnesota, Twin Cities: Department of Earth and Environmental Sciences",Public,Large,Urban,AANAPISI,GRE not required,"116 Church Street SE, Suite 150, Minneapolis, MN 55455",https://cse.umn.edu/esci,44.97,-93.23
-University of Oklahoma: School of Geosciences,Public,Large,Suburban,No MSI status,GRE not required,"100 East Boyd Street, RM 710, Norman, OK 73019",https://www.ou.edu/mcee/geosciences,35.21,-97.45
-University of Rhode Island: Graduate School of Oceanography/ College of Environment and Life Sciences Biological and Environmental Science Graduate Program,Public,Large,Rural,No MSI status,GRE not required,"215 South Ferry Road, Narragansett, RI 02882",https://www.uri.edu/programs/graduate-programs/,41.49,-71.53
-University of Texas Austin: Department of Marine Science,Public,Large,Urban,No MSI status,GRE not required,"750 Channel View Drive, Port Aransas, TX 78373",https://cns.utexas.edu/about/facts/marine-science,27.84,-97.05
-University of Texas Austin: Jackson School of Geoscience,Public,Large,Urban,No MSI status,GRE not required,"2275 Speedway, Stop C9000, Austin, TX 78705",https://www.jsg.utexas.edu/dgs/,30.28,-97.73
-"University of Texas El Paso: Department of Earth, Environmental and Resource Sciences",Public,Large,Urban,HSI,GRE not required,"500 W. University Ave, El Paso, TX 79968",https://www.utep.edu/science/geology/,31.77,-106.5
-University of Washington: Department of Atmospheric Sciences,Public,Large,Urban,AANAPISI,GRE not required,"3920 Okanogan Lane NE, Seattle, WA 98195",https://atmos.uw.edu/,47.66,-122.3
-"University of Wisconsin, Madison: Department of Atmospheric and Oceanic",Public,Large,Urban,No MSI status,GRE not required,"1225 West Dayton Street, Room 849, Madison, WI 53706",https://www.aos.wisc.edu/academics/graduate/,43.08,-89.41
-"University of Wisconsin, Madison: Department of Geography",Public,Large,Urban,No MSI status,GRE not required,"550 N. Park Street, Science Hall, Madison, WI 53706",https://geography.wisc.edu/,43.08,-89.41
-Utah State University: Department of Geosciences,Public,Large,Rural,No MSI status,GRE not required,"4505 Old Main Hill, Logan, UT 84322",https://www.usu.edu/geo/,41.75,-111.81
-Virginia Tech: Department of Geosciences,Public,Large,Suburban,No MSI status,GRE not required,"926 West Campus Drive, 4044 Derring Hall, Blacksburg, VA 24061",https://geos.vt.edu/,37.23,-80.42
-"Western Kentucky University: Department of Earth, Environmental, and Atmospheric Sciences",Public,Large,Suburban,No MSI status,GRE required,"1906 College Heights Blvd, EST 304, Bowling Green, KY 42101",https://www.wku.edu/eeas/,36.98,-86.46
-William & Mary: School of Marine Science ,Public,Medium,Suburban,No MSI status,GRE not required,"1370 Greate Rd, Gloucester Point, VA 23062",https://www.vims.edu/,37.27,-76.72
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+Institution,Type,Size,Setting,Minority_Serving_Institution,GRE_Requirement,GRE Notes,Address,Link,Latitude,Longitude
+"Brown University: Department of Earth, Environmental and Planetary Sciences",Private,Medium,Urban,No MSI status,GRE not required,,"One Prospect Street, Providence, RI 2912",https://deeps.brown.edu/,41.83,-71.4
+"California State University, Chico: Department of Earth and Environmental Sciences",Public,Large,Rural,HSI,GRE not required,,"31 Ivy Street, Chico, CA 95928",https://www.csuchico.edu/erth/,39.73,-121.85
+"California State University, Fresno: Department of Earth and Environmental Sciences",Public,Large,Urban,HSI,GRE required,," 2576 E. San Ramon Ave, Fresno, CA 93740",https://csm.fresnostate.edu/ees/,36.81,-119.75
+Central Washington University: Department of Geological Sciences,Public,Medium,Rural,No MSI status,GRE not required,,"400 East University Way, Ellensburg, WA 98926",https://www.geology.cwu.edu/,47.01,-120.54
+Colorado State University: Department of Atmospheric Science,Public,Large,Suburban,No MSI status,GRE not required,,"3915 Laporte Ave., Fort Collins, CO 80521",https://www.atmos.colostate.edu/,40.57,-105.09
+Cornell University: Department of Earth and Atmospheric Sciences,Private,Large,Rural,No MSI status,GRE not required,,"112 Hollister Drive, Ithaca, NY 14853 ",https://www.eas.cornell.edu/eas,42.45,-76.47
+Dartmouth College: Department of Earth Sciences,Private,Medium,Rural,No MSI status,GRE not required,,"19 Fayerweather Hill Road, Hanover, NH 03755",https://earthsciences.dartmouth.edu/,43.7,-72.29
+Florida International University: Department of Earth and Environment,Public,Large,Urban,HSI,GRE not required,GRE requirement waived for Bridge applicants,"11200 S. W. 8th Street, Miami, FL 33199",https://case.fiu.edu/earth-environment/,25.76,-80.38
+George Mason University: Department of Atmospheric Oceanic and Earth Sciences,Public,Large,Suburban,No MSI status,GRE not required,,"4400 University Dr, 3451 Exploratory Hall and 109 Research Hall, Fairfax, VA 22030 ",https://science.gmu.edu/academics/departments-units/atmospheric-oceanic-earth-sciences,38.83,-77.31
+Georgia Institute of Technology: School of Earth and Atmospheric Sciences,Public,Large,Urban,No MSI status,GRE not required,,"311 Ferst Drive, Atlanta, GA 30332",https://eas.gatech.edu/,33.78,-84.4
+Georgia State University: Department of Geosciences,Public,Large,Urban,"AANAPISI, PBI",GRE not required,,"38 Peachtree Center Ave. SE, Suite 730, Atlanta, GA 30303",https://geosciences.gsu.edu/,33.75,-84.39
+Hampton University: Department of Atmospheric and Planetary Sciences,Private,Medium,Urban,HBCU,GRE not required,,"23 E. Tyler Street, Hampton, VA 23668",https://home.hamptonu.edu/science/atmospheric-planetary-sciences/,37.02,-76.33
+Johns Hopkins University: Department of Earth and Planetary Sciences,Private,Large,Urban,No MSI status,GRE not required,,"3400 N. Charles Street, 301 Olin Hall, Baltimore, MD 21218",https://eps.jhu.edu/,39.33,-76.62
+Lehigh University: Department of Earth and Environmental Sciences,Private,Medium,Suburban,No MSI status,GRE not required,,"1 West Packer Avenue, Bethlehem, PA 18015",https://ees.cas.lehigh.edu/,40.6,-75.38
+Michigan Technological University: Department of Geological and Mining Engineering and Sciences,Public,Medium,Rural,No MSI status,GRE not required,,"1400 Townsend Drive, Houghton, MI 49931",https://www.mtu.edu/geo/graduate/geo-eng/,47.12,-88.55
+Northern Arizona University: Center for Ecosystem Science and Society,Public,Large,Suburban,HSI,GRE not required,,"1900 S Knoles Dr, Flagstaff, AZ 86011",https://ecoss.nau.edu/,35.18,-111.65
+Ohio State University: School of Earth Sciences,Public,Large,Urban,No MSI status,GRE not required,,"125 S. Oval Mall, Columbus, OH 43210",https://earthsciences.osu.edu/,40.01,-83.03
+Tulane University: Department of Earth and Environmental Sciences,Private,Large,Urban,No MSI status,GRE not required,,"6823 St. Charles Avenue, 201 Lindy Claiborne Boggs Center, New Orleans, LA 70118",https://sse.tulane.edu/eens,29.94,-90.12
+University at Albany SUNY: Department of Atmospheric and Environmental Sciences,Public,Large,Suburban,No MSI status,GRE not required,,"1400 Washington Avenue, ETEC 496, Albany, NY 12222",https://www.albany.edu/daes,42.69,-73.82
+University of Alabama: Department of Geological Sciences,Public,Large,Suburban,No MSI status,GRE not required,,"201 7th Ave., Tuscaloosa, AL 35487",https://geo.ua.edu/,33.21,-87.54
+University of Alaska Fairbanks: Department of Geosciences,Public,Medium,Suburban,ANNHI,GRE not required,,"1930 Yukon Drive, 308 Reichardt Building, Fairbanks, AK 99775",https://www.uaf.edu/geosciences/,64.86,-147.83
+"University of California, Irvine: 	Department of Earth System Science",Public,Large,Suburban,"AANAPISI, HSI",GRE not required,,"501 Aldrich Hall, Croul Hall, Irvine, CA 92687",https://www.ess.uci.edu/,33.64,-117.84
+"University of California, San Diego: Scripps Institution of Oceanography",Public,Large,Suburban,No MSI status,GRE not required,,"9500 Gilman Dr, La Jolla, CA 92093",https://scripps.ucsd.edu/,32.88,-117.23
+"University of California, Santa Barbara: Department of Earth Science",Public,Large,Suburban,HSI,GRE not required,,"1006 Webb Hall, University of California, Santa Barbara, CA 93106",https://www.geol.ucsb.edu/education/graduate,34.41,-119.85
+"University of California, Santa Cruz: Ocean Sciences Department",Public,Large,Suburban,HSI,GRE not required,,"115 McAllister Way, Santa Cruz, CA 95060",https://oceansci.ucsc.edu/,36.99,-122.06
+University of Chicago: Department of the Geophysical Sciences,Private,Large,Urban,No MSI status,GRE not required,,"5734 S. Ellis Avenue, Chicago, IL 60637",https://geosci.uchicago.edu/,41.79,-87.6
+"University of Colorado, Boulder: Department of Geography",Public,Large,Suburban,No MSI status,GRE not required,,"1475 Central Campus Mall, GUGG, Boulder, CO 80309",https://www.colorado.edu/geography/,40.01,-105.27
+"University of Colorado, Boulder: Department of Geological Sciences",Public,Large,Suburban,No MSI status,GRE not required,,"1475 Central Campus Mall, GUGG, Boulder, CO 80309",https://www.colorado.edu/geologicalsciences/,40.01,-105.27
+University of Connecticut: Marine Sciences,Public,Large,Rural,No MSI status,GRE not required,,"1080 Shennecossett Road, Groton, CT 06340",https://marinesciences.uconn.edu/#,41.32,-72.07
+University of Houston: Earth and Atmospheric Sciences,Public,Large,Urban,"AANAPISI, HSI",GRE not required,,"3507 Cullen Blvd., Houston, TX 77204",https://www.uh.edu/nsm/earth-atmospheric/,29.72,-95.34
+"University of Illinois at Urbana Champaign: School of Earth, Society and the Environment",Public,Large,Urban,No MSI status,GRE not required,,"1301 W. Green St., Chanmpaign, IL 61801",https://earth.illinois.edu/,40.1,-88.23
+University of Illinois Chicago: Department of Earth & Environmental Sciences,Public,Large,Urban,"AANAPISI, HSI",GRE not required,,"845 W. Taylor St., 2440 SES Chicago, IL 60607",https://eaes.uic.edu/,41.87,-87.65
+University of Kentucky: Department of Earth and Environmental Sciences,Public,Large,Urban,No MSI status,GRE not required,,"South Limestone, 101 Slone Building, Lexington, KY 40506",https://ees.as.uky.edu/,38.03,-84.5
+University of Maryland College Park: Department of Atmospheric and Oceanic Science,Public,Large,Suburban,AANAPISI,GRE not required,,"4254 Stadium Drive, College Park, MD 20742",https://aosc.umd.edu/,38.99,-76.94
+University of Massachusetts Amherst: Department of Geosciences,Public,Large,Suburban,No MSI status,GRE not required,,"627 North Pleasant St, 233 Morrill Science Center, Amherst, MA 1003",http://www.geo.umass.edu/programs/graduate/geology,42.39,-72.53
+University of Michigan: Department of Earth and Environmental Sciences,Public,Large,Urban,No MSI status,GRE not required,,"1100 North University Ave., Ann Arbor, MI 48109",https://lsa.umich.edu/earth,42.24,-83.74
+University of Michigan: Department of Climate and Space Sciences and Engineering,Public,Large,Urban,No MSI status,GRE not required,,"2455 Hayward St., Ann Arbor, MI 48109",https://clasp.engin.umich.edu/,42.24,-83.74
+"University of Minnesota, Duluth: Department of Earth and Environmental Sciences",Public,Medium,Suburban,No MSI status,GRE not required,,"1114 Kirby Drive, Heller Hall 229, Duluth, MN 55812",https://scse.d.umn.edu/departments-and-programs/earth-environmental-sciences,46.82,-92.08
+"University of Minnesota, Twin Cities: Department of Earth and Environmental Sciences",Public,Large,Urban,AANAPISI,GRE not required,,"116 Church Street SE, Suite 150, Minneapolis, MN 55455",https://cse.umn.edu/esci,44.97,-93.23
+University of Oklahoma: School of Geosciences,Public,Large,Suburban,No MSI status,GRE not required,,"100 East Boyd Street, RM 710, Norman, OK 73019",https://www.ou.edu/mcee/geosciences,35.21,-97.45
+University of Rhode Island: Graduate School of Oceanography/ College of Environment and Life Sciences Biological and Environmental Science Graduate Program,Public,Large,Rural,No MSI status,GRE not required,,"215 South Ferry Road, Narragansett, RI 02882",https://www.uri.edu/programs/graduate-programs/,41.49,-71.53
+University of Texas Austin: Department of Marine Science,Public,Large,Urban,No MSI status,GRE not required,,"750 Channel View Drive, Port Aransas, TX 78373",https://cns.utexas.edu/about/facts/marine-science,27.84,-97.05
+University of Texas Austin: Jackson School of Geoscience,Public,Large,Urban,No MSI status,GRE not required,,"2275 Speedway, Stop C9000, Austin, TX 78705",https://www.jsg.utexas.edu/dgs/,30.28,-97.73
+"University of Texas El Paso: Department of Earth, Environmental and Resource Sciences",Public,Large,Urban,HSI,GRE not required,,"500 W. University Ave, El Paso, TX 79968",https://www.utep.edu/science/geology/,31.77,-106.5
+University of Washington: Department of Atmospheric Sciences,Public,Large,Urban,AANAPISI,GRE not required,,"3920 Okanogan Lane NE, Seattle, WA 98195",https://atmos.uw.edu/,47.66,-122.3
+"University of Wisconsin, Madison: Department of Atmospheric and Oceanic",Public,Large,Urban,No MSI status,GRE not required,,"1225 West Dayton Street, Room 849, Madison, WI 53706",https://www.aos.wisc.edu/academics/graduate/,43.08,-89.41
+"University of Wisconsin, Madison: Department of Geography",Public,Large,Urban,No MSI status,GRE not required,,"550 N. Park Street, Science Hall, Madison, WI 53706",https://geography.wisc.edu/,43.08,-89.41
+Utah State University: Department of Geosciences,Public,Large,Rural,No MSI status,GRE not required,,"4505 Old Main Hill, Logan, UT 84322",https://www.usu.edu/geo/,41.75,-111.81
+Virginia Tech: Department of Geosciences,Public,Large,Suburban,No MSI status,GRE not required,,"926 West Campus Drive, 4044 Derring Hall, Blacksburg, VA 24061",https://geos.vt.edu/,37.23,-80.42
+"Western Kentucky University: Department of Earth, Environmental, and Atmospheric Sciences",Public,Large,Suburban,No MSI status,GRE required,,"1906 College Heights Blvd, EST 304, Bowling Green, KY 42101",https://www.wku.edu/eeas/,36.98,-86.46
+William & Mary: School of Marine Science ,Public,Medium,Suburban,No MSI status,GRE not required,,"1370 Greate Rd, Gloucester Point, VA 23062",https://www.vims.edu/,37.27,-76.72
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
